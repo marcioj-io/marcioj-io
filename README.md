@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/marcioj-io">
   <img height="180em" ![Anurag's github stats] src="https://github-readme-stats.vercel.app/api?username=marcioj-io&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=discussions_started"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciojuniors2&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcioj-io&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
