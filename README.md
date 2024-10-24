@@ -30,5 +30,5 @@ Full Stack Developer for + 3YEAR!! Always looking for new challenges and learnin
   <a href="mailto:marciojunior5872@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/márcio-junior-179485209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-(![Snake animation](https://github.com/marcioj-io/marcioj-io/blob/main/assets/github-user-contribution.svg))
+![Snake animation](https://github.com/marcioj-io/marcioj-io/blob/main/assets/github-user-contribution.svg)
 </div>
