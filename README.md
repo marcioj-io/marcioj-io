@@ -1,7 +1,7 @@
 ## 👽 Hi, my name is Marcio Junior...
 Full Stack Developer for + 4YEAR!! Always looking for new challenges and learning.
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex;">
   <div align="">
     <a href="https://github.com/marcioj-io">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcioj-io&show_icons=true&theme=aura&include_all_commits=true&count_private=true&show=discussions_started"/>
