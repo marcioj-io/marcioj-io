@@ -11,7 +11,7 @@ Full Stack Developer for + 4YEAR!! Always looking for new challenges and learnin
     </a>
   </div>
 
-  <div style="">
+  <div style="display: flex;">
     <img align="center" alt="Rafa-Js" height="50" style="border-radius: full" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rafa-Ts" height="50" style="border-radius: full" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Next.js" height="50" src="https://cdn.icon-icons.com/icons2/3388/PNG/512/nextjs_icon_212861.png">
