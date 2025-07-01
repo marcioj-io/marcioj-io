@@ -2,7 +2,7 @@
 Full Stack Developer for + 4YEAR!! Always looking for new challenges and learning.
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div align="center">
+  <div align="">
     <a href="https://github.com/marcioj-io">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcioj-io&show_icons=true&theme=aura&include_all_commits=true&count_private=true&show=discussions_started"/>
     </a>
@@ -11,7 +11,7 @@ Full Stack Developer for + 4YEAR!! Always looking for new challenges and learnin
     </a>
   </div>
 
-  <div style="display: flex;">
+  <div style="">
     <img align="center" alt="Rafa-Js" height="50" style="border-radius: full" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rafa-Ts" height="50" style="border-radius: full" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Next.js" height="50" src="https://cdn.icon-icons.com/icons2/3388/PNG/512/nextjs_icon_212861.png">
