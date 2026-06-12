@@ -7,7 +7,7 @@ Full Stack Developer for + 5YEARS!! Always looking for new challenges and learni
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcioj-io&show_icons=true&theme=aura&include_all_commits=true&count_private=true&show=discussions_started"/>
     </a>
     <a href="https://github.com/marcioj-io">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcioj-io&langs_count=8&theme=aura"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcioj-io&layout=compact&langs_count=7&theme=aura"/>
     </a>
   </div>
 
